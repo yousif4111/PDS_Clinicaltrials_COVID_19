@@ -1,0 +1,1293 @@
+,names,count
+1,Placebo,280
+2,Hydroxychloroquine,102
+3,Azithromycin,39
+4,Remdesivir,32
+5,Placebo oral tablet,31
+6,Tocilizumab,30
+7,Favipiravir,23
+8,Ivermectin,22
+9,Placebos,16
+10,Enoxaparin,15
+11,Nitazoxanide,15
+12,Methylprednisolone,14
+13,Colchicine,13
+14,Standard of Care,12
+15,Dexamethasone,12
+16,Hydroxychloroquine Sulfate,12
+17,Standard of care,10
+18,Ruxolitinib,10
+19,Losartan,9
+20,Anakinra,9
+21,Camostat Mesilate,9
+22,Lopinavir/ritonavir,8
+23,Baricitinib,8
+24,Chloroquine,7
+25,Clazakizumab,6
+26,Rivaroxaban,6
+27,Sarilumab,6
+28,LY3819253,6
+29,Oseltamivir,6
+30,Nafamostat Mesilate,5
+31,DAS181,5
+32,Standard Medical Treatment,5
+33,Lopinavir / Ritonavir,5
+34,Hydroxychloroquine (HCQ),5
+35,Aspirin,5
+36,Convalescent Plasma,5
+37,Cholecalciferol,5
+38,Standard treatment,5
+39,Doxycycline,5
+40,placebo,5
+41,Vitamin C,5
+42,hydroxychloroquine,5
+43,Interferon Beta-1A,4
+44,Nitric Oxide,4
+45,Melatonin,4
+46,Acalabrutinib,4
+47,Heparin,4
+48,Sargramostim,4
+49,Prednisone,4
+50,Colchicine Tablets,4
+51,Povidone-Iodine,4
+52,Lopinavir/Ritonavir,4
+53,Camostat,4
+54,Placebo Administration,4
+55,HCQ,4
+56,Opaganib,4
+57,Zinc,4
+58,Mavrilimumab,4
+59,Apremilast,3
+60,REGN10933+REGN10987 combination therapy,3
+61,Interferon beta-1b,3
+62,Tofacitinib,3
+63,Chloroquine phosphate,3
+64,Interferon Beta-1B,3
+65,Interferon beta-1a,3
+66,Niclosamide,3
+67,Telmisartan,3
+68,Famotidine,3
+69,Cyclosporine,3
+70,Placebo oral capsule,3
+71,Ascorbic Acid,3
+72,Hydrocortisone,3
+73,Chloroquine or Hydroxychloroquine,3
+74,Suspension of heat killed (autoclaved) Mycobacterium w,3
+75,DWRX2003,3
+76,BCG Vaccine,3
+77,Control,3
+78,Naltrexone,3
+79,Nitric Oxide Gas,3
+80,Normal Saline,3
+81,Selinexor,3
+82,Ribavirin,3
+83,Normal saline,3
+84,Ibrutinib,3
+85,Clopidogrel,3
+86,EIDD-2801,3
+87,ACE inhibitor,3
+88,Duvelisib,2
+89,Infliximab,2
+90,Deferoxamine,2
+91,Pulmozyme,2
+92,Convalescent Plasma Transfusion,2
+93,AZD7442,2
+94,Unfractionated heparin,2
+95,SOC + Placebo,2
+96,Tranexamic acid,2
+97,standard therapy,2
+98,Thymalfasin,2
+99,Matching Placebo,2
+100,unfractionated Heparin,2
+101,Single Dose of Hydroxychloroquine,2
+102,Tocilizumab Injection,2
+103,Crizanlizumab,2
+104,Hydroxychloroquine Sulfate 200 MG,2
+105,Hydroxychloroquine - Weekly Dosing,2
+106,Brequinar,2
+107,Siltuximab,2
+108,Leflunomide,2
+109,Olokizumab 64 mg,2
+110,Apixaban 2.5 MG,2
+111,Abatacept,2
+112,Atorvastatin,2
+113,Tofacitinib 10 mg,2
+114,Bicalutamide 150 Mg Oral Tablet,2
+115,Sirolimus,2
+116,N-Acetyl cysteine,2
+117,Meplazumab for Injection,2
+118,EC-18,2
+119,LY3832479,2
+120,Ivermectin Oral Product,2
+121,Chloroquine Sulfate,2
+122,PUL-042 Inhalation Solution,2
+123,Ciclesonide,2
+124,HB-adMSCs,2
+125,Azithromycin Tablets,2
+126,Enoxaparin 40 Mg/0.4 mL Injectable Solution,2
+127,Human immunoglobulin,2
+128,Tocilizumab (TCZ),2
+129,Fisetin,2
+130,Angiotensin 1-7,2
+131,Ivermectin Pill,2
+132,Ruxolitinib Oral Tablet,2
+133,EDP1815,2
+134,Famotidine 20 MG,2
+135,Remdesivir placebo,2
+136,Metformin,2
+137,Dexamethasone injection,2
+138,TD-0903,2
+139,Molnupiravir,2
+140,Disulfiram,2
+141,Angiotensin converting enzyme inhibitor,2
+142,Baricitinib Oral Tablet,2
+143,Hydroxychloroquine and Azithromycin,2
+144,Niclosamide Oral Tablet,2
+145,Fluoxetine,2
+146,Acebilustat,2
+147,EXO 1 inhalation,2
+148,EXO 2 inhalation,2
+149,Placebo inhalation,2
+150,Ivermectin and Doxycycline,2
+151,Oxygen,2
+152,Defibrotide,2
+153,Hydroxychloroquine Sulfate Tablets,2
+154,N-acetylcysteine,2
+155,IMU-838,2
+156,RTB101,2
+157,Angiotensin-(1-7),2
+158,Guduchi Ghan Vati,2
+159,Hydroxychloroquine 200 Mg Oral Tablet,2
+160,Icosapent ethyl,2
+161,50 mg/mL Virazole,2
+162,100 mg/mL Virazole,2
+163,Interleukin-7,2
+164,CYT107,2
+165,Camostat Mesylate,2
+166,Nitrogen gas,2
+167,Early-Dexamethasone,2
+168,Bevacizumab Injection,2
+169,Pirfenidone,2
+170,Canakinumab,2
+171,Peginterferon Lambda-1A,2
+172,Simvastatin,2
+173,Hydroxychloroquine Sulfate 200 MG [Plaquenil],2
+174,Dornase Alfa Inhalation Solution [Pulmozyme],2
+175,INO-4800,2
+176,Eculizumab,2
+177,IVIG,2
+178,Daclatasvir,2
+179,Ravulizumab,2
+180,Methylprednisolone Sodium Succinate,2
+181,Vitamin D,2
+182,Intramuscular injection,2
+183,Hydroxychloroquine Sulfate Regular dose,2
+184,Hydroxychloroquine Sulfate Loading Dose,2
+185,Fostamatinib,2
+186,Nigella Sativa / Black Cumin,2
+187,L-ascorbic acid,2
+188,ARB,2
+189,Cannabidiol,2
+190,Chloroquine or hydroxychloroquine,2
+191,Pentoxifylline,2
+192,Lopinavir-Ritonavir,2
+193,Sevoflurane,2
+194,Ebselen,2
+195,Leronlimab (700mg),2
+196,Plasma,2
+197,Corticosteroid,2
+198,Abidol hydrochloride,2
+199,RLF-100 (aviptadil),2
+200,Therapeutic anticoagulation,2
+201,Low molecular weight heparin,2
+202,Hydroxychloroquine + azithromycin,2
+203,AVIGAN 200 MG Film Tablets,2
+204,Decitabine,1
+205,Tramadol,1
+206,C21,1
+207,AZD1222,1
+208,0.9% (w/v) saline,1
+209,Emtricitabine/tenofovir,1
+210,Colchicine Pill,1
+211,Rosuvastatin,1
+212,Isotretinoin Only Product in Oral Dose Form,1
+213,Lactoferrin,1
+214,Double-Blind NT-I7,1
+215,Double-Blind Placebo,1
+216,Clevudine,1
+217,Aspirin 75mg,1
+218,Clopidogrel 75mg,1
+219,Rivaroxaban 2.5 MG,1
+220,Atorvastatin 40mg,1
+221,Omeprazole 20mg,1
+222,Aprepitant injectable emulsion,1
+223,Saline Placebo,1
+224,VentaProst (inhaled epoprostenol delivered via a dedicated delivery system),1
+225,Enoxaparin sodium,1
+226,Fondapariniux,1
+227,Argatroban,1
+228,Huaier Granule,1
+229,Lambda 180 mcg S.C,1
+230,ABX464,1
+231,Dietary Supplement containing resistant starch,1
+232,FT516,1
+233,TXA127,1
+234,Anti-SARS-CoV-2 equine immunoglobulin fragments (INOSARS),1
+235,Standard Treatment,1
+236,Oral administration of Colchicine plus Herbal Phenolic Monoterpene Fractions,1
+237,SOC + Intravenous Famotidine,1
+238,Methylene Blue 5 MG/ML,1
+239,"Alpha-interferon alpha, abidol, ribavirin, Buzhong Yiqi plus and minus formula, Huhuang Detoxicity Paste, Baimu Qingre Jiedu Paste, fumigation/inhalation of vitamin C",1
+240,"Alpha-interferon, abidol, ribavirin, Buzhong Yiqi plus and minus formula, Huhuang Detoxicity Paste, Baimu Qingre Jiedu Paste and 5% glucose",1
+241,"Alpha-interferon, abidol, ribavirin, Buzhong Yiqi plus and minus formula, Huhuang Detoxicity Paste, Baimu Qingre Jiedu Paste and high-dose vitamin C treatment",1
+242,FSD201,1
+243,Dapagliflozin 10 MG,1
+244,Transfusion of SARS-CoV-2 Convalescent Plasma.,1
+245,Transfusion of standard Plasma.,1
+246,CPI-006,1
+247,anti-SARS-CoV-2 plasma,1
+248,Aprotinin,1
+249,Pamrevlumab,1
+250,1: Naproxen,1
+251,2: Standard of care,1
+252,TCM prescriptions,1
+253,Baricitinib (janus kinase inhibitor),1
+254,Plitidepsin 1.5 mg/day,1
+255,Plitidepsin 2.0 mg/day,1
+256,Plitidepsin 2.5 mg/day,1
+257,Traditional Chinese Medicine Prescription,1
+258,Ozanimod,1
+259,Clofazimine,1
+260,Colchicine 1 MG Oral Tablet,1
+261,Recombinant Bacterial ACE2 receptors -like enzyme of B38-CAP (rbACE2),1
+262,Recombinant human angiotensin-converting enzyme 2 (rhACE2),1
+263,SOC + IFX-1,1
+264,Lianhua Qingwen,1
+265,Losmapimod oral tablet,1
+266,Artesunate-amodiaquine,1
+267,Pyronaridine-artesunate,1
+268,Favipiravir plus Nitazoxanide,1
+269,Sofosbuvir/daclatasvir,1
+270,NO-Immunosuppressive,1
+271,Immunosuppressive,1
+272,Immunoglubulins,1
+273,Hydroxychloroquine plus standard preventive measures,1
+274,Placebo plus standard preventive measures,1
+275,Omegaven®,1
+276,Sodium chloride,1
+277,BDB-001 Injection,1
+278,Merimepodib,1
+279,Pyronaridine-Artesunate,1
+280,Ciclesonide Metered Dose Inhaler [Alvesco],1
+281,Unfractionated heparin nebulized,1
+282,acetylsalicylic acid,1
+283,0.5% Povidone Iodine,1
+284,0.12% Chlorhexidine Gluconate Mouth Rinse,1
+285,1% Hydrogen Peroxide,1
+286,0.9% Normal Saline,1
+287,Telmisartan arm will receive 80 mg Telmisartan twice daily plus standard care.,1
+288,Prazosin,1
+289,IVERMECTIN (IVER P®) arm will receive IVM 600 µg / kg once daily plus standard care. CONTROL arm will receive standard care.,1
+290,Experimental Group,1
+291,Placebo Group,1
+292,Umifenovir,1
+293,Interferon-β 1a,1
+294,Standards of Care,1
+295,Baricitinib or Anakinra,1
+296,CHLORPROMAZINE (CPZ),1
+297,Maraviroc 300 mg,1
+298,Placebo of Hydroxychloroquine,1
+299,Lopinavir and ritonavir,1
+300,Placebo of LPV/r Tablets,1
+301,Hydroxychloroquine - Daily dosing,1
+302,Maraviroc + Currently used therapy,1
+303,Favipiravir + Currently used therapy,1
+304,Maraviroc+Favipiravir+CT,1
+305,Standard of care (SOC),1
+306,standard concomitant therapy,1
+307,Sofosbuvir 400 MG plus Daclatasvir 200mg,1
+308,TD139,1
+309,MRx-4DP0004,1
+310,BI 764198,1
+311,Apixaban 5MG,1
+312,Plant Polyphenol,1
+313,Sildenafil citrate tablets,1
+314,AT-001,1
+315,Zilucoplan®,1
+316,Gimsilumab,1
+317,Anakinra 100Mg/0.67Ml Inj Syringe,1
+318,Enoxaparin Higher Dose,1
+319,Lower-dose prophylactic anticoagulation,1
+320,Chlorpromazine,1
+321,Amiodarone,1
+322,Verapamil,1
+323,Atazanavir,1
+324,Daclatasvir 60 mg,1
+325,Sofusbuvir + Daclastavir 60 mg,1
+326,Placebo Atazanavir,1
+327,Placebo Daclatasvir 60 mg,1
+328,Placebo Sofusbuvir + Daclatasvir 60 mg,1
+329,Etoposide,1
+330,OP-101,1
+331,"Hydroxychloroquine , Sofosbuvir, daclatasvir",1
+332,Standard of care treatment,1
+333,PF-06650833,1
+334,Apilimod Dimesylate Capsule,1
+335,Ramipril 2.5 MG Oral Capsule,1
+336,Bemiparin sodium,1
+337,Mesenchymal stem cells,1
+338,Imatinib,1
+339,Hydroxychloroquine Sulfate 400 mg twice a day,1
+340,Hydroxychloroquine Sulfate 600 mg twice a day,1
+341,Hydroxychloroquine Sulfate 600 mg once a day,1
+342,"Lenalidomide as a 5 mg capsule PO daily, days 1, 3, and 5.",1
+343,Desidustat,1
+344,chloroquine,1
+345,Lopinavir/Ritonavir 400 mg/100 mg,1
+346,aerosolized DNase,1
+347,NaCl,1
+348,prophylactic lactoferrin daily,1
+349,Treatment and prophylaxis,1
+350,HCQ & AZ vs HCQ+SIR,1
+351,Sterile normal saline (0.9%),1
+352,Therapeutic Anticoagulation,1
+353,HCQ & AZ,1
+354,Zanubrutinib,1
+355,Supportive Care,1
+356,PHR160 Spray,1
+357,Essential oils,1
+358,Ulinastatin,1
+359,Placebo EC-18,1
+360,HB-adMSC,1
+361,INB03,1
+362,RhACE2 APN01,1
+363,Physiological saline solution,1
+364,Favipiravir + Standard of Care,1
+365,AT-527,1
+366,Thromboprophylaxis,1
+367,Candesartan,1
+368,non-RAS blocking antihypertensives,1
+369,placebo for clazakizumab,1
+370,"Nitric Oxide lozenges, 30 mg",1
+371,FNC+Standard of Care,1
+372,FNC dummy tablet+Standard of Care,1
+373,Methotrexate,1
+374,GNS561,1
+375,Canakinumab 150 MG/ML [Ilaris],1
+376,Povidone-Iodine 2%,1
+377,Povidone-Iodine 0.5%,1
+378,Isotonic saline 0.9%,1
+379,BAT2020,1
+380,Hydroxychloroquine sulfate,1
+381,Isoquercetin (IQC-950AN),1
+382,Saline oral/nasal rinse,1
+383,0.5% Povidone/Iodine oral/nasal rinse,1
+384,0.12% Chlorhexidine oral/nasal rinse,1
+385,Levilimab,1
+386,RBT-9 (90 mg),1
+387,0.9% sodium chloride (normal saline),1
+388,Convalesscent Plasma,1
+389,Degarelix,1
+390,Peginterferon Lambda-1a,1
+391,RDV,1
+392,Placebo to Match RDV,1
+393,Mucodentol,1
+394,Mannitol,1
+395,Zinc Sulfate,1
+396,Remdesivir (RDV),1
+397,UNI911 INHALATION,1
+398,Tetrandrine,1
+399,Nitazoxanide Tablets,1
+400,Cenicriviroc,1
+401,Icatibant,1
+402,Razuprotafib,1
+403,Telmisartan 40mg,1
+404,Clazakizumab 25 mg,1
+405,Clazakizumab 12.5 mg,1
+406,Bivalirudin Injection,1
+407,"RESP301, a Nitric Oxide generating solution",1
+408,Standard Therapy Protocol (STP),1
+409,Surfactant,1
+410,Dialyzable Leukocyte Extract,1
+411,Placebo oral,1
+412,Antihypertensive Agents,1
+413,Statins (Cardiovascular Agents),1
+414,COVID-19 standard care,1
+415,Favipiravir Placebo,1
+416,Azithromycin Capsule,1
+417,Zavegepant (BHV-3500),1
+418,Pegylated interferon lambda,1
+419,Angiotensin Receptor Blockers,1
+420,"ACE inhibitor, angiotensin receptor blocker",1
+421,cenicriviroc,1
+422,Montelukast 10mg,1
+423,Plasma from COVID-19 convalescent patient,1
+424,Antibiotics,1
+425,Hormones,1
+426,Anticoagulant Therapy,1
+427,SnPP Protoporphyrin plus Sunlight exposure,1
+428,Sulfonatoporphyrin(TPPS) plus Sunlight exposure.,1
+429,Bevacizumab,1
+430,Lanadelumab,1
+431,methylprednisolone therapy,1
+432,Ivermectin + Doxycycline + Placebo,1
+433,Ivermectin + Placebo,1
+434,MSTT1041A,1
+435,MSTT1041A-matched Placebo,1
+436,UTTR1147A,1
+437,UTTR1147A-matched Placebo,1
+438,Tociliuzumab,1
+439,LAU-7b,1
+440,18F-αvβ6-BP,1
+441,Levamisole Pill + Budesonide+Formoterol inhaler,1
+442,Lopinavir/Ritonavir + hydoxychloroquine,1
+443,thalidomide,1
+444,Thalidomide,1
+445,metenkefalin + tridecactide,1
+446,The standard of care,1
+447,T89 capsule,1
+448,Chloroquine Phosphate Tablets,1
+449,Anti-SARS-CoV-2 convalescent plasma,1
+450,STI-5656,1
+451,Interferon-ß-1a,1
+452,Losartan 50 mg and Spironolactone 25 mg pillules oral use,1
+453,iv Tocillizumab (TCZ),1
+454,INC424 / Ruxolitinib,1
+455,NT-I7,1
+456,Estrogen Therapy,1
+457,Pulmozyme/ Recombinant human deoxyribonuclease (rh-DNase),1
+458,0.9%sodium chloride,1
+459,Defibrotide Injection,1
+460,Toremifene,1
+461,Silmitasertib,1
+462,SOC,1
+463,NIVOLUMAB,1
+464,NBT-NM108,1
+465,Fingolimod 0.5 mg,1
+466,MAS825,1
+467,Matching placebo,1
+468,ABBV-47D11,1
+469,Placebo for ABBV-47D11,1
+470,Enzalutamide Pill,1
+471,Nitazoxanide and atazanavir/ritonavir,1
+472,Angiotensin-Converting Enzyme Inhibitors (ACE-I) and Angiotensin II Receptor Blockers (ARB),1
+473,Clarithromycin 500mg,1
+474,Heparin - Therapeutic dosage,1
+475,Heparin - Prophylactic dosage,1
+476,Transfusion of COVID-19 convalescent plasma,1
+477,Tranexamic acid tablets,1
+478,Cenicriviroc (CVC),1
+479,Razuprotafib Subcutaneous Solution,1
+480,Placebo Subcutaneous Solution,1
+481,Indomethacin,1
+482,Zithromax Oral Product,1
+483,Iloprost,1
+484,Isotonic saline,1
+485,Retrospective case-control analysis,1
+486,chlorine dioxide 3000 ppm,1
+487,Ivermectin nasal,1
+488,Ivermectin oral,1
+489,Standard therapy of COVID-19,1
+490,Folic Acid,1
+491,Lopinavir 200 MG / Ritonavir 50 MG [Kaletra],1
+492,The usual treatment,1
+493,Progesterone 100 MG,1
+494,Dapagliflozin,1
+495,Ambrisentan,1
+496,Anakinra 149 MG/ML Prefilled Syringe [Kineret],1
+497,bamlanivimab,1
+498,CNM-ZnAg,1
+499,amoxicillin/clavulanate,1
+500,Hydroxychloroquine + Metabolic cofactor supplementation,1
+501,Hydroxychloroquine + Sorbitol,1
+502,Povidone-iodine,1
+503,10% Povidone-iodine nasal decolonization swab plus 0.12% CHG oral rinse,1
+504,DWJ1248,1
+505,favipiravir,1
+506,Standard of care therapy,1
+507,GC4419,1
+508,Galidesivir,1
+509,Low Molecular Weight Heparin,1
+510,oral co-trimoxazole,1
+511,ATYR1923 1 mg/kg,1
+512,ATYR1923 3 mg/kg,1
+513,Silymarin,1
+514,Piclidenoson,1
+515,Azithromycin (Azithro),1
+516,Placebo for Hydroxychloroquine,1
+517,Placebo for Azithromycin,1
+518,Previfenon®,1
+519,canakinumab,1
+520,Povidone-Iodine Nasal Spray and Gargle,1
+521,Sofosbuvir plus Ledipasvir,1
+522,Favipiravir (3200 mg + 1200 mg),1
+523,Favipiravir (3600 mg + 1600 mg),1
+524,Favipiravir (3200 mg + 1200 mg) combined with Hydroxychloroquine,1
+525,Favipiravir (3200 mg + 1200 mg) combined with Azithromycin,1
+526,Hydroxychloroquine combined with Azithromycin,1
+527,Bemiparin,1
+528,Brazilian Green Propolis Extract (EPP-AF),1
+529,Molgramostim nebuliser solution,1
+530,Levamisole,1
+531,Isoprinosine,1
+532,Levamisole and Isoprinosine,1
+533,Povidone-Iodine 0.4% NI,1
+534,Povidone-Iodine 0.5% NI,1
+535,Povidone-Iodine 0.6% NI,1
+536,Povidone-Iodine 0.5% NS,1
+537,Povidone-Iodine 0.6% NS,1
+538,TJ003234,1
+539,Antroquinonol,1
+540,Sildenafil,1
+541,1: ILT101,1
+542,2: Placebo Comparator,1
+543,Ivermectin and Doxycyline,1
+544,AVIGAN,1
+545,Placebo Comparator,1
+546,HCQ+AZT,1
+547,IV Dexamethasone,1
+548,Nasal Dexamethasone,1
+549,Tocilizumab 20 MG/ML Intravenous Solution [ACTEMRA],1
+550,Tice® BCG (for intravesical use) BCG LIVE strain of the BCG (Merck) vaccine,1
+551,Preservative-free saline,1
+552,AZD1656,1
+553,LY3127804,1
+554,Fuzheng Huayu Tablet,1
+555,Vitamin C tablets,1
+556,Enzalutamide,1
+557,Angiotensin II Receptor Blockers,1
+558,MR or M-M-R II ® vaccine,1
+559,Oral,1
+560,FOY-305,1
+561,Hydroxychloroquine and azithromycin treatment,1
+562,Oseltamivir 75mg,1
+563,Imatinib tablets,1
+564,Trimodulin,1
+565,LYT-100,1
+566,AVM0703,1
+567,hydrocortisone,1
+568,rhDNase I,1
+569,Standard (specific) therapy for COVID-19,1
+570,Remestemcel-L,1
+571,Oral 25-Hydroxyvitamin D3,1
+572,"Cerebrospinal fluid sampling, meningeal and brain parenchyma biopsies",1
+573,Emtricitabine/Tenofovir Alafenamide 200 MG-25 MG Oral Tablet,1
+574,Carrimycin,1
+575,lopinavir/ritonavir tablets or Arbidol or chloroquine phosphate,1
+576,basic treatment,1
+577,thromboprophylaxis with low-molecular-weight heparin or fondaparinux,1
+578,Corticosteroid with or without colchicine,1
+579,"""Vernonia amygdalina""",1
+580,Dexamethasone and Hydroxychloroquine,1
+581,Tafenoquine Oral Tablet,1
+582,Standard of Care (SOC) + ANG-3777,1
+583,Standard Of Care (SOC) + Placebo,1
+584,Sodium Bicarbonate,1
+585,Imatinib Mesylate,1
+586,Regadenoson,1
+587,Diphenhydramine,1
+588,Hydroxychloroquine and azithromycin treatment arm.,1
+589,Control arm,1
+590,Drug Isotretinoin (13 cis retinoic acid ) capsules+standard treatment,1
+591,Isotretinoin(Aerosolized 13 cis retinoic acid) +standard treatment,1
+592,Apixaban,1
+593,Melphalan,1
+594,Anakinra Prefilled Syringe,1
+595,Tocilizumab Prefilled Syringe,1
+596,Standard-of-care treatment,1
+597,Anticoagulation Agents (Edoxaban and/or high dose LMWH),1
+598,Low dose Low molecular weight heparin or Placebo,1
+599,Sodium Bicarbonate 150Meq/L/D5W Inj,1
+600,Gargle/Mouthwash,1
+601,Sulodexide,1
+602,MethylPREDNISolone 80 Mg/mL Injectable Suspension,1
+603,Hyperpolarized Xe129,1
+604,Alvelestat,1
+605,"Analogs, Prostaglandin E1",1
+606,Standard therapeutic protocol,1
+607,Dociparastat sodium,1
+608,rNAPc2,1
+609,Sarilumab Prefilled Syringe,1
+610,Bucillamine,1
+611,TM5614,1
+612,ISIS 721744,1
+613,Lopinavir-Ritonavir Drug Combination,1
+614,OCTAPLAS,1
+615,NOX66,1
+616,Bromhexine Oral Tablet and/or hydroxychloroquine tablet,1
+617,MPT0B640,1
+618,Ivermectin 3mg Tab,1
+619,Placebo Atrovastatin,1
+620,theraputic heparin,1
+621,prophylactic heparin,1
+622,Ivermectin (IVM),1
+623,Dornase Alfa,1
+624,CD24Fc,1
+625,Pegylated Interferon-α2b,1
+626,Atovaquone/Azithromycin,1
+627,Azithromycin 500Mg Oral Tablet,1
+628,Standard therapy for COVID-19 according to the stablished hospital protocols.,1
+629,Allocetra-OTS,1
+630,Brexanolone,1
+631,SCTA01,1
+632,AstroStem-V,1
+633,Lucinactant,1
+634,Only Standard Treatment,1
+635,Tocilizumab 20 MG/ML Intravenous Solution [ACTEMRA]_#1,1
+636,Tocilizumab 20 MG/ML Intravenous Solution [ACTEMRA]_#1 (2 doses),1
+637,The standard therapy,1
+638,poractant alfa,1
+639,Lopinavir/Ritonavir 200 MG-50 MG Oral Tablet,1
+640,Telmisartan 40Mg Oral Tablet,1
+641,Atorvastatin 20 Mg Oral Tablet,1
+642,COVID-19 Convalscent Plasma,1
+643,Nafamostat Mesylate,1
+644,"MCN (Methylene blue, vitamin C, N-acetyl cysteine)",1
+645,Quercetin,1
+646,Niclosamide suspension,1
+647,Tacrolimus,1
+648,Aerosolized 13 cis retinoic acid,1
+649,Aerosolized All trans retinoic acid,1
+650,Abivertinib,1
+651,Antithrombin III,1
+652,liposomal lactoferrin,1
+653,intermediate dose Enoxaparin/ unfractionated heparin,1
+654,standard prophylactic dose Enoxaparin/ unfractionated heparin,1
+655,Atorvastatin 20mg,1
+656,Matched placebo,1
+657,Drug: Isotretinoin(Aerosolized 13 cis retinoic acid) plus Aerosolized Itraconazole,1
+658,Drug: Isotretinoin(Aerosolized 13 cis retinoic acid),1
+659,BGB-DXP593,1
+660,20 Mg Prednisone for 14 days,1
+661,control,1
+662,nangibotide,1
+663,Prednisone tablet,1
+664,standard of care,1
+665,Nebulised unfractionated heparin (UFH),1
+666,ATI-450,1
+667,Danoprevir+Ritonavir,1
+668,Tenofovir/ Emtricitabine ( 300 mg / 200 mg daily during 60 days) + Personal Protective Equipment (PPE),1
+669,LMWH,1
+670,Ganovo+ritonavir+/-Interferon nebulization,1
+671,Isoflurane Inhalant Product,1
+672,Sevoflurane inhalant product,1
+673,Nicotine patch,1
+674,Placebo patch,1
+675,Ethanol with Asprin,1
+676,Iota-Carrageenan,1
+677,inhalable hydroxychloroquine (HCQ),1
+678,supportive and symptomatic treatment,1
+679,Anakinra alone (stages 2b/3),1
+680,Anakinra and Ruxolitinib (overcome stage 3),1
+681,SNO,1
+682,Bamlanivimab,1
+683,Ramelteon 8mg,1
+684,Cyclosporin A,1
+685,Fluvoxamine,1
+686,Sirolimus 1 MG/ML,1
+687,Omega 3/Nigella Sativa Oil,1
+688,Omega 3/Nigella Sativa Oil/Indian Costus,1
+689,Omega 3/Nigella Sativa Oil/Quinine pills,1
+690,Omega 3/Nigella Sativa Oil/Anise seed capsule,1
+691,Omega 3/Nigella Sativa Oil/Deglycyrrhizinated Licorice,1
+692,Active Comparator,1
+693,NuSepin® 0.1 mg,1
+694,NuSepin® 0.2 mg,1
+695,Sofosbuvir/Daclatasvir,1
+696,Patients with the treatment agains COVID19,1
+697,DFV890,1
+698,Standard of Care (SoC),1
+699,Tinzaparin or unfractionated heparin,1
+700,Nasal Spray,1
+701,mometasone furoate nasal spray,1
+702,Late-Dexamethasone,1
+703,Melatonin intravenous,1
+704,Placebo intravenous,1
+705,Azithromycin 250 MG,1
+706,Medium dose prednisolone,1
+707,Low dose prednisolone,1
+708,Bardoxolone methyl,1
+709,Normal Saline intranasal,1
+710,Omega-3 Fatty Acid Supplement,1
+711,Placebo/Control,1
+712,Triazavirin (Riamilovir),1
+713,inhaled type I interferon,1
+714,WFI water nebulization,1
+715,ACE Inhibitors and Calcium Channel Blockers,1
+716,Hydroxychloroquine (placebo),1
+717,Zinc (Placebo),1
+718,BLD-2660,1
+719,BIO101,1
+720,Inhaled nitric oxide (iNO),1
+721,Oxygen gas,1
+722,Nuvastatic,1
+723,Bovine Lipid Extract Surfactant,1
+724,Daily Vitamin D3,1
+725,Daily placebo,1
+726,Bolus vitamin D3,1
+727,Bolus placebo,1
+728,Heparin sodium,1
+729,UNIKINON (Chloroquine phosphate) 200mg tablets,1
+730,Lopinavir/ Ritonavir,1
+731,Azithromycin 250 MG Oral Capsule,1
+732,semaglutide,1
+733,Hydroxychloroquine Pill,1
+734,Octagam,1
+735,Standard COVID-19 therapies,1
+736,Enoxaparin Prophylactic Dose,1
+737,Heparin Infusion,1
+738,Heparin SC,1
+739,Enoxaparin/Lovenox Intermediate Dose,1
+740,Defibrotide 25 mg/kg 24 hours continuous infusion for 15 days,1
+741,Placebo 250 cc 24 hours continuous infusion for 15 days,1
+742,Tenecteplase,1
+743,Random Donor Plasma,1
+744,mavrilimumab,1
+745,Intermediate dose thromboprophylaxis,1
+746,Standard of Care thromboprophylaxis,1
+747,XC221,1
+748,"Mixture 3,6% H2 in N2 (96.4%)",1
+749,Rivaroxaban 10 MG,1
+750,Clarithromycin,1
+751,"Patch, Nicotine",1
+752,"Patch, Placebo",1
+753,Dipyridamole,1
+754,Dexamethasone 2 MG/ML,1
+755,Methylprednisolone Injection,1
+756,Povidone-Iodine Solution 1.25% w/w [0.125% available iodine] USP,1
+757,T3 solution for injection,1
+758,Interferon alfa,1
+759,Lenzilumab,1
+760,dapansutrile capsules,1
+761,placebo capsules,1
+762,High dose Interferon-beta 1a,1
+763,Low dose Interferon-beta 1a,1
+764,Hydroxychloroquine as post exposure prophylaxis,1
+765,Nivolumab Injection,1
+766,Nicotine 7 mg/ 24h Transdermal Patch - 24 Hour,1
+767,Placebo of NICOTINE Transdermal patch,1
+768,SNG001,1
+769,Dipyridamole ER 200mg/ Aspirin 25mg orally/enterally AND Standard of care,1
+770,Growth Hormone,1
+771,Bempegaldesleukin,1
+772,Iodine Complex,1
+773,MRG-001,1
+774,Edoxaban Tablets,1
+775,Baricitinib 4 MG Oral Tablet,1
+776,Oxytocin,1
+777,INM005,1
+778,Sofosbuvir,1
+779,Masitinib,1
+780,Isoquercetin,1
+781,Best Supportive Care,1
+782,EG-HPCP-03a,1
+783,EG-HPCP-03a Placebo,1
+784,XCEL-UMC-BETA,1
+785,Sulfur hexafluoride lipid-type A microspheres,1
+786,anti-SARS-CoV-2 IgY,1
+787,Sodium Chloride 9mg/mL,1
+788,Lopinavir 200Mg/Ritonavir 50Mg Tab,1
+789,BGB DXP593,1
+790,Tocilizumab 180 MG/ML,1
+791,Neuromuscular Blocking Agents,1
+792,Desferal 500 MG Injection,1
+793,Disease-modifying antirheumatic drugs (DMARDs),1
+794,Anakinra +/- Ruxolitinib (stages 2b/3),1
+795,Anakinra and Ruxolitinib (Advanced stage 3),1
+796,Tocilizumab +/- ruxolitinib (stages 2b/3),1
+797,Tocilizumab and Ruxolitinib (Advanced stage 3),1
+798,Pioglitazone 45 mg,1
+799,Nebulized Furosemide,1
+800,Nebulized Saline,1
+801,Drug: Standard treatment Standard treatment,1
+802,AMY-101,1
+803,Berberine,1
+804,Montmorrillonite,1
+805,BTL-TML-COVID,1
+806,Pyridostigmine Bromide,1
+807,Dose of tinzaparin or dalteparin,1
+808,Drug COVID19-0001-USR,1
+809,normal saline,1
+810,iNO (inhaled nitric oxide) delivered via the INOpulse Delivery System,1
+811,RLS-0071,1
+812,Sodium Nitrite,1
+813,Ivermectin 6 MG Oral Tablet (2 tablets),1
+814,Dexamethasone (high dose),1
+815,"Hydroxychloroquine, Azithromycin",1
+816,"Hydroxychloroquine, Doxycycline",1
+817,"Hydroxychloroquine, Clindamycin",1
+818,"Hydroxychloroquine, Clindamycin, Primaquine - low dose.",1
+819,"Hydroxychloroquine, Clindamycin, Primaquine - high dose.",1
+820,Interferon-Alpha2B,1
+821,Convalescent Serum,1
+822,Povidine iodine nasal swabs,1
+823,Icosapent ethyl (IPE),1
+824,Ivermectin Tablets,1
+825,"Treatment group: will receive a combination of Nitazoxanide, Ribavirin and Ivermectin for a duration of seven days :",1
+826,Enoxaparin Prefilled Syringe [Lovenox],1
+827,Remdesivir-HU,1
+828,Nivolumab,1
+829,Hydroxychloroquine sulfate &Azithromycin,1
+830,Linagliptin tablet,1
+831,Insulin,1
+832,Prophylactic/Intermediate Dose Enoxaparin,1
+833,Artemisinin / Artesunate,1
+834,TriCor® 145mg tablets,1
+835,Artesunate,1
+836,Ciclesonide Inhalation Aerosol,1
+837,Inhaled ILOPROST,1
+838,Vit D,1
+839,Nitazoxanide with ivermectin,1
+840,Ivermectin wth chloroquine,1
+841,Peginterferon lambda alfa-1a subcutaneous injection,1
+842,zinc,1
+843,Hydroxychloroquine Sulfate (HCQ),1
+844,Sofosbuvir and Ledipasvir,1
+845,Rapamycin,1
+846,Standard of Care (SOC) and Colchicine+Rosuvastatin,1
+847,Anakinra plus oSOC,1
+848,oSOC,1
+849,"Cannabidiol, pharmaceutically produced with < 5 ppm THC",1
+850,LB1148,1
+851,Treamid,1
+852,Pacritinib,1
+853,Lidocaine 2%,1
+854,0.9% Sodium-chloride,1
+855,NP-120 (Ifenprodil),1
+856,Renin-angiotensin system inhibitors,1
+857,0.9% Saline,1
+858,allogeneic mesenchymal stem cell,1
+859,PTC299,1
+860,Unfractionated Heparin IV,1
+861,Enoxaparin 1 mg/kg,1
+862,Unfractionated heparin SC,1
+863,Hydroxychloroquine - Daily Dosing,1
+864,Bicalutamide 150 mg,1
+865,IgIV,1
+866,GX-19,1
+867,Saline,1
+868,BRII-198,1
+869,BRII-196,1
+870,Almitrine,1
+871,Placebo (PBO),1
+872,Standard of care for SARS-CoV-2 infection,1
+873,"Microcrystalline Cellulose, NF",1
+874,GLS-1200,1
+875,Azithromycin 500 milligram (mg) oral Tablet,1
+876,Treatment with Dexmedetomidine,1
+877,DuACT,1
+878,ALLOGENEIC AND EXPANDED ADIPOSE TISSUE-DERIVED MESENCHYMAL STEM CELLS,1
+879,Alisporivir,1
+880,Human Ezrin Peptide 1 (HEP1),1
+881,AK119,1
+882,favorable outcome,1
+883,Senicapoc,1
+884,Ensifentrine Dose 1,1
+885,Placebo pMDI,1
+886,DeltaRex-G,1
+887,LEAF-4L6715,1
+888,Estradiol patch,1
+889,Trans Sodium Crocetinate,1
+890,Autophagy inhibitor (GNS651),1
+891,Avdoralimab,1
+892,Monalizumab,1
+893,0.9%NaCl,1
+894,Thiazide or Thiazide-like diuretics,1
+895,Calcium Channel Blockers,1
+896,Angiotensin receptor blocker,1
+897,Recombinant human plasma gelsolin (Rhu-pGSN),1
+898,BCG-10 vaccine,1
+899,0.9% saline,1
+900,Honey,1
+901,Canakinumab Injection 600mg,1
+902,Canakinumab Injection 300mg,1
+903,1.5-2% w/v Hydrogen Peroxide,1
+904,0.12% Chlorhexidine Gluconate,1
+905,21% Ethanol plus essential oils,1
+906,1% w/v Povidone-iodide,1
+907,0.075% Cetylpyridinium Chloride,1
+908,ACEIs,1
+909,Conventional treatment,1
+910,Convalescent plasma,1
+911,Association of diltiazem and niclosamide,1
+912,ArtemiC,1
+913,Prasugrel Hydrochloride 10 MG Oral Tablet,1
+914,Sublingual Methylene blue,1
+915,NK-1R antagonist,1
+916,2: Usual practice + SYMBICORT RAPIHALER,1
+917,low-molecular-weight heparin,1
+918,Ivermectin Injectable Solution,1
+919,Colchicine plus symptomatic treatment (paracetamol),1
+920,Symptomatic treatment (paracetamol or best symptomatic treatment based on doctor recommendations),1
+921,Metformin Glycinate,1
+922,Methotrexate-LDE phase 1,1
+923,Methotrexate-LDE phase 2,1
+924,Placebo-LDE phase 2,1
+925,P2Et (Caesalpinia spinosa extract),1
+926,MK-5475,1
+927,Bromhexine Hydrochloride,1
+928,Corticosteroids and Derivatives,1
+929,lopinavir/ritonavir,1
+930,Combined ART/hydroxychloroquine,1
+931,Janus Kinase Inhibitor (ruxolitinib),1
+932,BMS-986253,1
+933,Sitagliptin,1
+934,Enoxaparin 40Mg/0.4Ml Inj Syringe 0.4Ml,1
+935,Allogeneic and expanded adipose tissue-derived mesenchymal stromal cells,1
+936,Sarilumab 200 MG/1.14 ML Subcutaneous Solution [KEVZARA],1
+937,Sarilumab 400 MG/2.28 ML Subcutaneous Solution [KEVZARA],1
+938,Best available treatment,1
+939,CERC-002,1
+940,hydroxychloroquine sulfate 200 MG,1
+941,Aviptadil by intravenous infusion + standard of care,1
+942,Normal Saline Infusion + standard of care,1
+943,ACEI/ARB,1
+944,Non-ACEI/ARB,1
+945,ACEI,1
+946,Artemisia Annua Leaf,1
+947,Traditional antirheumatic drugs,1
+948,Itolizumab IV infusion,1
+949,"Best supportive care"" which includes antivirals /antibiotics/ hydroxychloroquine; oxygen therapy",1
+950,HLX71,1
+951,Valproate,1
+952,Quetiapine,1
+953,YinHu QingWen Decoction,1
+954,YinHu QingWen Decoction(low dose),1
+955,Dose of Tinzaparin or Dalteparin,1
+956,Methylene Blue,1
+957,Control Test,1
+958,Broncho-Vaxom®,1
+959,SARS-CoV-2 plasma,1
+960,Maraviroc,1
+961,sofosbuvir,1
+962,Sofosbuvir ledipsavir,1
+963,Bacille Calmette-Guérin (BCG),1
+964,Dipyridamole 100 Milligram(mg),1
+965,Ketamine,1
+966,Measles-Mumps-Rubella Vaccine,1
+967,Bromhexine Hydrochloride Tablets,1
+968,Arbidol Hydrochloride Granules,1
+969,Recombinant Human Interferon α2b Spray,1
+970,Eicosapentaenoic acid gastro-resistant capsules,1
+971,PLN-74809,1
+972,Hydroxychloroquine Pre-Exposure Prophylaxis,1
+973,CORVax,1
+974,IL-12 plasmid,1
+975,Valsartan (Diovan),1
+976,Yinhu Qingwen Granula,1
+977,Yin Hu Qing Wen Granula(low does),1
+978,Propofol,1
+979,Aviptadil 67μg,1
+980,Placebo 0.9% NaCl solution,1
+981,observational,1
+982,Rayaldee 30Mcg Extended-Release (ER) Capsule,1
+983,Vitamin E,1
+984,N-acetyl cysteine,1
+985,captopril 25mg,1
+986,Drug: Isotretinoin plus Tamoxifen,1
+987,Aerosolized Isotretinoin plus Tamoxifen,1
+988,Anluohuaxian,1
+989,Favipiravir Combined With Tocilizumab,1
+990,Lopinavir / ritonavir tablets combined with Xiyanping injection,1
+991,Lopinavir/ritonavir treatment,1
+992,unfractionated heparin,1
+993,Drug: NA-831,1
+994,Doxycyclin,1
+995,Hyperbaric oxygen,1
+996,Ivermectin + Doxycycline,1
+997,Hydroxychloroquine + Azithromycin,1
+998,Darunavir/Cobicistat,1
+999,Dutasteride,1
+1000,Proxalutamide,1
+1001,ZofinTM (OrganicellTM Flow),1
+1002,Kaletra and beta interferon,1
+1003,Immunosuppressive Agents,1
+1004,Ruxolitinib administration,1
+1005,Zotatifin,1
+1006,Placebo of excipient(s) will be administered,1
+1007,agenT-797,1
+1008,LSALT peptide,1
+1009,T89,1
+1010,Collagen-Polyvinylpyrrolidone,1
+1011,Paracetamol,1
+1012,azithromycin,1
+1013,hydroxychloroquine placebo,1
+1014,Exebacase,1
+1015,BAT + Calcifediol,1
+1016,BAT,1
+1017,azoximer bromide,1
+1018,hormones,1
+1019,Intravenous drug,1
+1020,Oral-B Mouth Sore mouthwash,1
+1021,Crest Pro-Health Multi-Protection mouthwash,1
+1022,CloSYS mouthwash,1
+1023,Distilled water,1
+1024,Listerine Mouthwash Product,1
+1025,Lopinavir/ Ritonavir Oral Tablet,1
+1026,Hydroxychloroquine Sulfate Tablets plus Lopinavir/ Ritonavir Oral Tablets,1
+1027,TNKase,1
+1028,glenzocimab,1
+1029,PD-1 blocking antibody+standard treatment,1
+1030,Thymosin+standard treatment,1
+1031,FX06,1
+1032,Placebo of FX06,1
+1033,Sirukumab,1
+1034,M5049,1
+1035,Aspirin 81 mg,1
+1036,Remimazolam,1
+1037,hydroxychloroquine in combination with camostat mesylate,1
+1038,Hydroxychloroquine in combination of Azithromycin,1
+1039,Angiotensin II,1
+1040,Interleukin-1 receptor antagonist,1
+1041,Emtricitabine/tenofovir disoproxil,1
+1042,Placebo: Emtricitabine/tenofovir disoproxil Placebo,1
+1043,Placebo: Hydroxychloroquine,1
+1044,Hidroxicloroquina,1
+1045,Control group,1
+1046,Melatonin 2mg,1
+1047,Ritonavir,1
+1048,Lopinavir,1
+1049,Single high dose vitamin D,1
+1050,Treatment as usual vitamin D,1
+1051,Placebo Nitazoxanide,1
+1052,Placebo Ribavirin,1
+1053,Placebo Hydroxychloroquine,1
+1054,Standard Therapy,1
+1055,Part 1 - TL-895,1
+1056,Part 2 - TL-895,1
+1057,Part 2 - Placebo,1
+1058,PF-07304814,1
+1059,High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma,1
+1060,Hydroxychloroquine Sulfate + Azythromycin,1
+1061,Pemziviptadil (PB1046),1
+1062,Low Dose (10 mg) Control,1
+1063,vadadustat,1
+1064,Budesonide dry powder inhaler,1
+1065,Synthetic neutralising antibodies,1
+1066,Placebo (PB0),1
+1067,nebulised recombinant tissue-Plasminogen Activator (rt-PA),1
+1068,Methylprednisolone Injectable Product,1
+1069,Budesonide Nasal,1
+1070,DUR-928,1
+1071,"Cannabis, Medical",1
+1072,Intravenous Immunoglobulin,1
+1073,Doxycycline Hcl,1
+1074,Abidol Hydrochloride combined with Interferon atomization,1
+1075,APL-9,1
+1076,NA-831,1
+1077,Comparable Placebo of drug,1
+1078,Ophtamesone,1
+1079,Linagliptin 5 MG,1
+1080,virgin coconut oil (VCO),1
+1081,Linagliptin,1
+1082,Insulin regimen,1
+1083,1: discontinuation of RAS blocker therapy,1
+1084,2: continuation of RAS blocker therapy,1
+1085,ASC09F+Oseltamivir,1
+1086,Ritonavir+Oseltamivir,1
+1087,ADM03820,1
+1088,Adenosine,1
+1089,metformin glycinate,1
+1090,COVID-19 treatment,1
+1091,Alteplase 50 MG [Activase],1
+1092,Tissue plasminogen activator,1
+1093,Ringer solution,1
+1094,Ibudilast,1
+1095,Nebulised heparin,1
+1096,Nintedanib 150 MG [Ofev],1
+1097,Group 1: Rivaroxaban 20mg/d followed by enoxaparin/unfractionated heparin when needed,1
+1098,Group 2: control group with enoxaparin 40mg/d,1
+1099,SNDX-6352,1
+1100,Chemotherapy,1
+1101,Ritonavir/lopinavir,1
+1102,Tocilizumab Injection [Actemra],1
+1103,Bromhexine 8 MG,1
+1104,Darunavir and Cobicistat,1
+1105,Bromhexine and Spironolactone,1
+1106,Base therapy,1
+1107,Nitric Oxide-Sessions,1
+1108,Nitric Oxide-Continuous and Sessions,1
+1109,Lovenox 40 MG in 0.4 mL Prefilled Syringe,1
+1110,Ruxolitinib plus simvastatin,1
+1111,Hydroxychloroquine Sulfate 200 milligram (mg) Tab,1
+1112,Chloroquine Diphosphate,1
+1113,Fixed-duration Hydrocortisone,1
+1114,Shock-dependent hydrocortisone,1
+1115,Ceftriaxone,1
+1116,Moxifloxacin or Levofloxacin,1
+1117,Piperacillin-tazobactam,1
+1118,Ceftaroline,1
+1119,Amoxicillin-clavulanate,1
+1120,Macrolide administered for 3-5 days,1
+1121,Macrolide administered for up to 14 days,1
+1122,Five-days oseltamivir,1
+1123,Ten-days oseltamivir,1
+1124,Hydroxychloroquine + lopinavir/ritonavir,1
+1125,Interferon-β1a,1
+1126,Fixed-duration higher dose Hydrocortisone,1
+1127,Eritoran,1
+1128,Prasugrel,1
+1129,Ticagrelor,1
+1130,fostamatinib,1
+1131,Piperacillin/tazobactam,1
+1132,Corticosteroid injection,1
+1133,Ruxolitinib 5 MG,1
+1134,Secukinumab 150 MG/ML Subcutaneous Solution [COSENTYX],1
+1135,Nintedanib 150 MG,1
+1136,Hydroxychloroquine + placebo,1
+1137,hydroxychloroquine + azithromycin,1
+1138,XAV-19,1
+1139,Nintedanib,1
+1140,Vitamin D3 or Placebo,1
+1141,CM4620-IE (Injectable Emulsion),1
+1142,Auxora,1
+1143,Dornase Alfa Inhalation Solution,1
+1144,Immunoglobulin of cured patients,1
+1145,γ-Globulin,1
+1146,Interferon-Beta,1
+1147,Hydroxychloroquine Only Product in Oral Dose Form,1
+1148,Ibuprofen,1
+1149,Intravenous sedation,1
+1150,Inhaled sedation,1
+1151,Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG),1
+1152,Conestat alfa,1
+1153,recombinant human interferon Alpha-1b,1
+1154,thymosin alpha 1,1
+1155,Aspirin 100mg,1
+1156,Inhaled Hypertonic ibuprofen,1
+1157,Inhaled nitric oxide gas,1
+1158,Tirofiban Injection,1
+1159,Acetylsalicylic acid,1
+1160,Fondaparinux,1
+1161,DAS181 COVID-19,1
+1162,DAS181 OL,1
+1163,BIO 300 Oral Suspension,1
+1164,Experimental drug,1
+1165,Colchicine 0.5 MG,1
+1166,Fuzheng Huayu tablet,1
+1167,Apo-Hydroxychloroquine,1
+1168,Matched Placebo,1
+1169,REGN10933+REGN10987,1
+1170,Hydroxychloroquine SAR321068,1
+1171,"Ivermectin 5 MG/ML oral solution, Aspirin 250 mg tablets",1
+1172,Nitazoxanide 500Mg Oral Tablet,1
+1173,Hesperidin and Diosmin mixture,1
+1174,Nitazoxanide 500 MG,1
+1175,topical steroids and cyclosporin-A,1
+1176,PLACEBO,1
+1177,Hydrogen Peroxide,1
+1178,inhaled hydroxychloroquine,1
+1179,Intranasal heparin sodium (porcine),1
+1180,Polyoxidonium,1
+1181,Usual Care,1
+1182,HLX70,1
+1183,Recombinant human interferon α1β,1
+1184,SIR1-365,1
+1185,Sarilumab SAR153191,1
+1186,Rintatolimod,1
+1187,Plaquenil 200Mg Tablet,1
+1188,Standar medical treatmen,1
+1189,"Conventional medicines (Oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir) and Traditional Chinese Medicines (TCMs) granules",1
+1190,"Conventional medicines (Oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir)",1
+1191,Hydroxychloroquin with Azithromycin,1
+1192,Hydroxychloroquine Oral Product,1
+1193,Dexmedetomidine Injectable Product,1
+1194,Eltrombopag,1
+1195,rhTPO,1
+1196,Nitric Oxide-Releasing Drug,1
+1197,SAR443122,1
+1198,Ruconest,1
+1199,NORS (Nitric Oxide Releasing Solution),1
+1200,Liberase Enzyme (Roche),1
+1201,Sterile Normal Saline for Intravenous Use,1
+1202,Acalabrutinib Treatment A,1
+1203,Acalabrutinib Treatment B,1
+1204,Acalabrutinib Treatment C,1
+1205,Acalabrutinib Treatment D,1
+1206,Stem Cell Product,1
+1207,bovhyaluronidase azoxymer,1
+1208,Pioglitazone 30 mg,1
+1209,"cholecalciferol 200,000 IU",1
+1210,"cholecalciferol 50,000 IU",1
+1211,Amlodipine,1
+1212,Alteplase,1
+1213,L-Citrulline,1
+1214,Fixed-Dose Combination of Pertuzumab and Trastuzumab for Subcutaneous Administration (PH FDC SC),1
+1215,VIB7734,1
+1216,Group A HCQ,1
+1217,Group B Control,1
+1218,Arbidol,1
+1219,Levamisole and isoprinosine,1
+1220,Azithromycin and hydroxychloroquine,1
+1221,Tradipitant,1
+1222,GLS-1027,1
+1223,Inactivated convalescent plasma,1
+1224,Support treatment,1
+1225,MANAGEMENT OF COVID-19,1
+1226,[18F]FP-R01-MG-F2,1
+1227,Veru-111,1
+1228,corticosteroid nasal irrigation,1
+1229,Spironolactone 100mg,1
+1230,Escin,1
+1231,RoActemra iv,1
+1232,RoActemra sc,1
+1233,Kevzara sc,1
+1234,Inhaled budesonide,1
+1235,HFB30132A,1
+1236,Aerolized Hydroxychloroquine Sulfate,1
+1237,Symptomatic drugs,1
+1238,Bridge therapy,1
+1239,Mefloquine,1
+1240,Wharton's jelly derived Mesenchymal stem cells.,1
+1241,"Hydroxychloroquine, lopinavir/ritonavir or azithromycin and placebo (standard therapy)",1
+1242,Late dexamethazone,1
+1243,Placebo solution,1
+1244,ASC09/ritonavir group,1
+1245,lopinavir/ritonavir group,1
+1246,VC,1
+1247,Sterile Water for Injection,1
+1248,REGN10933 + REGN10987,1
+1249,Chloroquine diphosphate,1
+1250,CT-P59,1
+1251,Xiyanping injection,1
+1252,"Lopinavir / ritonavir, alpha-interferon nebulization,Abidor Hydrochloride",1
+1253,Nitric Oxide 0.5 % / Nitrogen 99.5 % Gas for Inhalation,1
+1254,Interleukin 6 (IL6) Antagonist,1
+1255,Interleukin 6 (IL6) Antagonist and corticosteroids,1
+1256,alpha one antitrypsin inhalation,1
+1257,Mesenchymal Stromal Stem Cells - KI-MSC-PL-205,1
+1258,TAK-981,1
+1259,PH94B,1
+1260,Ketotifen 1 MG,1
+1261,CUROSURF® (poractant alfa),1
+1262,Prednisolone 5 mg,1
+1263,Placebo oral capsule; From August 2020 'no additional treatment',1
+1264,TAK-671,1
+1265,TAK-671 Placebo,1
+1266,Sodium bicarbonate,1
+1267,Botulinum Neurotoxin,1
+1268,Propranolol Hydrochloride,1
+1269,Drug: NA-831 - 0.10 mg/kg,1
+1270,Placebo- 0.10 mg/kg,1
+1271,Drug: NA-831 - 0.20 mg/kg,1
+1272,Placebo- 0.20 mg/kg,1
+1273,Drug: GS-5734 - 1.00 mg/kg,1
+1274,Placebo- 1.00 mg/kg,1
+1275,Drug: GS-5734 - 2.00 mg/kg,1
+1276,Placebo- 2.00 mg/kg,1
+1277,AlloStim,1
+1278,Pioglitazone,1
+1279,"The POP02 study is collecting bodily fluid samples (i.e., whole blood, effluent samples) of children prescribed the following drugs of interest per standard of care:",1
+1280,Budesonide,1
+1281,FAVIR 200 MG FT,1
+1282,AVIGAN 200 mg FT,1
+1283,AVICOD 200 MG Film Tablet,1
+1284,FAVICOVIR 200 mg Film Tablet,1
+1285,AVIGAN 200 mg Film Tablets,1
+1286,FAVIRA 200 MG Film Tablet,1
+1287,ATAFENOVIR 200 MG KAPSUL,1
+1288,ARBIDOL 100 MG KAPSUL,1
+1289,Test: Favipiravir 200 mg (LOQULAR),1
+1290,Reference: Favipiravir 200 mg (Avigan),1
+1291,Lopinavir 200Mg/Ritonavir 50Mg FT Test,1
+1292,Lopinavir 200Mg/Ritonavir 50Mg FT Reference,1

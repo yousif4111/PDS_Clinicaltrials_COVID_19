@@ -1,0 +1,143 @@
+country,Total Studies,Treatment Studies,Prevention Studies,Vaccine Studies,Diagnostic Studies
+United States,799.0,153.0,53.0,18.0,32.0
+France,548.0,30.0,10.0,2.0,16.0
+China,150.0,30.0,24.0,20.0,3.0
+Netherlands,24.0,4.0,2.0,0.0,0.0
+United Kingdom,192.0,15.0,8.0,5.0,18.0
+Iran,22.0,7.0,1.0,0.0,0.0
+Turkey,139.0,9.0,4.0,2.0,3.0
+Switzerland,54.0,3.0,4.0,0.0,3.0
+Italy,175.0,19.0,3.0,1.0,5.0
+Japan,10.0,0.0,5.0,4.0,0.0
+Spain,139.0,25.0,9.0,0.0,1.0
+Puerto Rico,10.0,2.0,1.0,0.0,1.0
+Russian Federation,48.0,3.0,9.0,7.0,0.0
+Malaysia,9.0,0.0,0.0,0.0,0.0
+Colombia,26.0,11.0,2.0,0.0,0.0
+Portugal,6.0,0.0,0.0,0.0,0.0
+Pakistan,40.0,8.0,0.0,0.0,0.0
+Mexico,117.0,32.0,12.0,4.0,2.0
+"Korea University Guro Hospital, Seoul, Korea, Republic of",4.0,0.0,2.0,2.0,0.0
+Egypt,147.0,29.0,5.0,4.0,2.0
+Israel,51.0,11.0,1.0,1.0,0.0
+Indonesia,14.0,2.0,3.0,3.0,1.0
+Brazil,107.0,18.0,9.0,5.0,1.0
+Jersey,54.0,14.0,6.0,1.0,0.0
+Peru,12.0,1.0,4.0,2.0,0.0
+South Africa,13.0,6.0,2.0,2.0,0.0
+Saudi Arabia,22.0,3.0,0.0,0.0,0.0
+Belgium,63.0,4.0,1.0,1.0,4.0
+Jamaica,9.0,5.0,0.0,0.0,0.0
+Germany,90.0,10.0,8.0,5.0,3.0
+Canada,150.0,17.0,11.0,5.0,1.0
+Singapore,17.0,3.0,2.0,1.0,0.0
+Sweden,42.0,10.0,0.0,0.0,0.0
+Philippines,3.0,1.0,0.0,0.0,0.0
+"Korea University Ansan Hospital, Ansan, Korea, Republic of|Inha University Hospital, Incheon, Korea, Republic of|Gangnam Severance Hospital, Seoul, Korea, Republic of|Hallym University Kangnam Sacred Heart Hospital, Seoul, Korea, Republic of|Korea University Guro Hospital, Seoul, Korea, Republic of|Kyungpook national university hospital, Seoul, Korea, Republic of|National Medical Center, Seoul, Korea, Republic of|Sahmyook Medical Center, Seoul, Korea, Republic of|Severance Hospital, Seoul, Korea, Republic of|Ajou University Hospital, Suwon, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+Senegal,1.0,1.0,0.0,0.0,0.0
+Argentina,39.0,9.0,6.0,1.0,0.0
+Montserrat,1.0,0.0,0.0,0.0,0.0
+India,43.0,8.0,6.0,4.0,1.0
+Denmark,47.0,3.0,1.0,1.0,1.0
+Australia,19.0,1.0,6.0,4.0,0.0
+United Arab Emirates,6.0,0.0,0.0,0.0,0.0
+Poland,17.0,3.0,0.0,0.0,0.0
+Chile,17.0,2.0,1.0,1.0,0.0
+"Pamela Youde Nethersole Eastern Hospital, Hong Kong, Hong Kong|Prince of Wales Hospital, Hong Kong, Hong Kong|Princess Margaret Hospital, Hong Kong, Hong Kong",1.0,0.0,0.0,0.0,0.0
+Jordan,11.0,2.0,2.0,2.0,0.0
+Qatar,9.0,0.0,0.0,0.0,0.0
+Iceland,2.0,1.0,0.0,0.0,0.0
+"Chungbuk National University Hospital, Cheongju-si, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+Bahrain,1.0,0.0,0.0,0.0,0.0
+"Yeungnam University Medical Center, Daegu, Korea, Republic of|Keimyung University Dongsan Hospital, Daegu, Korea, Republic of|Chungnam National University Hospital, Daejeon, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+Austria,21.0,2.0,2.0,0.0,2.0
+"Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+Dominica,1.0,0.0,0.0,0.0,0.0
+Bangladesh,18.0,3.0,0.0,0.0,0.0
+Belarus,4.0,1.0,1.0,1.0,0.0
+Greece,19.0,4.0,1.0,0.0,0.0
+Azerbaijan,1.0,0.0,1.0,1.0,0.0
+Ukraine,4.0,3.0,0.0,0.0,0.0
+Réunion,3.0,0.0,0.0,0.0,0.0
+"Linda Zhong, Kowloon Tong, Kowloon, Hong Kong",1.0,0.0,0.0,0.0,0.0
+"The University of Hong Kong, Queen Mary Hospital, Hong Kong, Hong Kong",4.0,0.0,0.0,0.0,0.0
+Bosnia and Herzegovina,1.0,1.0,0.0,0.0,0.0
+Sint Maarten,1.0,0.0,1.0,1.0,0.0
+"National Taiwan University Hospital, Taipei, Taiwan",4.0,0.0,1.0,1.0,0.0
+Finland,2.0,0.0,0.0,0.0,0.0
+Slovenia,4.0,1.0,0.0,0.0,1.0
+Monaco,3.0,0.0,0.0,0.0,0.0
+Niger,4.0,0.0,0.0,0.0,0.0
+Costa Rica,2.0,0.0,0.0,0.0,0.0
+Saba,16.0,1.0,0.0,0.0,2.0
+Ireland,7.0,1.0,0.0,0.0,0.0
+Vietnam,4.0,3.0,0.0,0.0,0.0
+"University Hospital Brno, Brno, Czechia",2.0,0.0,0.0,0.0,0.0
+Norway,23.0,1.0,1.0,0.0,0.0
+Hungary,8.0,1.0,0.0,0.0,0.0
+Guinea,5.0,0.0,1.0,0.0,0.0
+Iraq,5.0,2.0,0.0,0.0,0.0
+Croatia,1.0,1.0,0.0,0.0,0.0
+Thailand,4.0,1.0,1.0,1.0,0.0
+Congo,2.0,0.0,0.0,0.0,0.0
+North Macedonia,2.0,2.0,0.0,0.0,0.0
+"František Duška, Praha, Česká Republika, Czechia",1.0,0.0,0.0,0.0,0.0
+Lebanon,3.0,0.0,0.0,0.0,0.0
+Ethiopia,2.0,0.0,0.0,0.0,1.0
+"Queen Mary Hospital, Hong Kong, Hong Kong",1.0,0.0,0.0,0.0,0.0
+Kenya,1.0,0.0,0.0,0.0,0.0
+"Samsung Medical Center, Seoul, Korea, Republic of|Samsung Medical Center, Seoul, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+French Guiana,6.0,0.0,0.0,0.0,0.0
+"Hong Kong Sanatorium & Hospital, Hong Kong, Hong Kong",2.0,0.0,0.0,0.0,0.0
+"Jaseng Hospital of Korean Medicine, Seoul, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+Kyrgyzstan,1.0,0.0,0.0,0.0,1.0
+Moldova,1.0,1.0,0.0,0.0,0.0
+Nepal,2.0,2.0,0.0,0.0,0.0
+Martinique,4.0,1.0,0.0,0.0,0.0
+Luxembourg,2.0,0.0,0.0,0.0,0.0
+"Service des Maladies Infectieuses et Tropicales, Centre Hospitalier et Universitaire (CHU) Treichville, Abidjan, Côte D'Ivoire|Centre de Traitement des Maladies Infectieuses (CTMI), CHU de Yopougon, Abidjan, Côte D'Ivoire",1.0,0.0,0.0,0.0,0.0
+Kuwait,3.0,1.0,1.0,0.0,0.0
+Tonga,2.0,0.0,0.0,0.0,0.0
+Romania,4.0,0.0,0.0,0.0,0.0
+Tunisia,10.0,3.0,2.0,0.0,0.0
+Bolivia,1.0,0.0,0.0,0.0,0.0
+"University of Hong Kong, Hong Kong, Hong Kong",1.0,0.0,0.0,0.0,0.0
+Czech Republic,2.0,0.0,0.0,0.0,0.0
+New Zealand,3.0,1.0,1.0,1.0,0.0
+Sudan,1.0,0.0,0.0,0.0,0.0
+Kazakhstan,4.0,0.0,2.0,2.0,0.0
+"The Chinese University of Hong Kong, Sha Tin, Hong Kong",1.0,0.0,0.0,0.0,0.0
+Ecuador,3.0,0.0,0.0,0.0,0.0
+"KeimyungUniversity, Daegu, Jung-gu, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+"Severance hospital, Seoul, Korea, Republic of",1.0,0.0,1.0,1.0,0.0
+Gibraltar,1.0,0.0,1.0,0.0,0.0
+Mali,5.0,1.0,0.0,0.0,0.0
+Uganda,1.0,0.0,0.0,0.0,0.0
+"Chungnam National University Hospital, Daejeon, Jung-gu, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+"Incheon Medical Center, Incheon, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+"Prince of Wales Hospital, Hong Kong, Hong Kong",2.0,0.0,0.0,0.0,0.0
+"Taoyuan General Hospital, Ministry of Health and Welfare, Taoyuan City, Taiwan",1.0,0.0,0.0,0.0,0.0
+Slovakia,1.0,0.0,0.0,0.0,0.0
+"Seoul National University Bundang Hospital, Seongnam-si, Gyeonggi-do, Korea, Republic of|Seoul National University Hospital, Seoul, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+Guadeloupe,1.0,0.0,0.0,0.0,0.0
+Rwanda,1.0,0.0,0.0,0.0,0.0
+"University Hospital Hradec Kralove, Hradec Králové, Třebeš, Czechia",1.0,0.0,0.0,0.0,0.0
+"The University of Hong Kong, Hong Kong, Hong Kong",1.0,0.0,0.0,0.0,0.0
+"Prince of Wales Hospital, Sha Tin, Hong Kong",1.0,0.0,0.0,0.0,0.0
+Guatemala,2.0,0.0,1.0,0.0,0.0
+"Seoul National University Boramae Medical Center, Seoul, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+Paraguay,1.0,0.0,0.0,0.0,0.0
+Cambodia,1.0,0.0,0.0,0.0,0.0
+"LAI Agnes, Hong Kong, Hong Kong",1.0,0.0,0.0,0.0,0.0
+"Agnes, Hong Kong, Hong Kong",1.0,0.0,0.0,0.0,0.0
+"School of public health and primary care, Hong Kong, Hong Kong",1.0,0.0,0.0,0.0,0.0
+Algeria,1.0,0.0,0.0,0.0,0.0
+"Chungnam National University Hospital, Daejeon, Korea, Republic of",1.0,0.0,0.0,0.0,0.0
+Burkina Faso,1.0,1.0,0.0,0.0,0.0
+"Branch of Chinese Medicine, Taipei City Hospital, Taipei, Taiwan|Branch of Linsen Chinese Medicine and Kunming, Taipei City Hospital, Taipei, Taiwan|Taipei City Hospital, Taipei, Taiwan",1.0,0.0,1.0,0.0,0.0
+"Tung Wah Group of Hospitals Integrated Centre on Smoking Cessation, Hong Kong, Hong Kong",1.0,0.0,1.0,0.0,0.0
+"The Chinese University of Hong Kong, Hong Kong, Hong Kong",1.0,0.0,0.0,0.0,0.0
+Honduras,1.0,0.0,0.0,0.0,0.0
+Lesotho,1.0,0.0,0.0,0.0,1.0
+"University of Hong Kong, Queen Mary Hospital, Hong Kong, Hong Kong",1.0,1.0,0.0,0.0,0.0
+Cyprus,1.0,0.0,0.0,0.0,0.0

@@ -2,7 +2,7 @@
 
 ## This is a Data Science Project that aims to analyze data about COVID-19 Clinical Trial Studies
 
-##What is COVID-19 Clinical Trial Studies?
+## What is COVID-19 Clinical Trial Studies?
 
 A clinical study involves research using human volunteers that is intended to add to medical knowledge.
 There are two main types of clinical studies and observational studies.

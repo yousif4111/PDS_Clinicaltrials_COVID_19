@@ -16,6 +16,12 @@ ClinicalTrials.gov includes both interventions and observational studies.
 
 [ShinyApp](https://yousifabd.shinyapps.io/PDS_Clinicaltrials_COVID_19/)
 
+
+![image](https://user-images.githubusercontent.com/46527978/131725065-dcc71bc9-f37b-4ee8-a224-eee0fd18ee16.png)
+
+
+
+
 # Files
 
 ## Data
